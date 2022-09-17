@@ -1,0 +1,9 @@
+ps5:
+  title: PS5 Fat
+  description: PS5 en buen estado
+  price: 150
+
+switch:
+  title: Nintendo Switch
+  description: Le falla el lector de tarjeta SD
+  price: 195
